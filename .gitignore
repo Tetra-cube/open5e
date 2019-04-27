@@ -35,26 +35,11 @@ venv/*
 .gitignore
 
 # static files
-static/json/
+ui/static/json/
 
 # .env file
 .env
 
 # Certificates
 .certs
-
-# dependencies
-node_modules
-
-# logs
-npm-debug.log
-
-# Nuxt build
-.nuxt
-
-# Nuxt generate
-dist
-
-# NGINX certificates
-nginx/ssl/*
 

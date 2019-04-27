@@ -129,7 +129,7 @@ class PlaneSerializer(DynamicFieldsModelSerializer, serializers.HyperlinkedModel
 class SectionSerializer(DynamicFieldsModelSerializer, serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Section
-        fields = ('slug','name','desc','document_slug','parent')
+        fields = ('slug','name','desc','document_slug')
 
 class FeatSerializer(DynamicFieldsModelSerializer, serializers.HyperlinkedModelSerializer):
     class Meta:

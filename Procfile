@@ -1,1 +1,1 @@
-web: npm run start
+web: cd ui && npm install && npm run build && npm start
