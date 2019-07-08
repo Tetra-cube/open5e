@@ -341,7 +341,8 @@
             "walk": 40,
             "burrow": 30,
             "fly": 80
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Adult Blue Dragon",
@@ -2089,7 +2090,8 @@
             "walk": 40,
             "fly": 80,
             "swim": 40
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Ancient Red Dragon",
@@ -2697,7 +2699,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "15 with _mage armor_"
     },
     {
         "name": "Assassin",
@@ -2769,7 +2772,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "studded leather"
     },
     {
         "name": "Awakened Shrub",
@@ -2855,7 +2859,8 @@
         ],
         "speed_json": {
             "walk": 20
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Axe Beak",
@@ -3166,7 +3171,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "leather armor"
     },
     {
         "name": "Bandit Captain",
@@ -3226,7 +3232,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "studded leather"
     },
     {
         "name": "Barbed Devil",
@@ -3576,7 +3583,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "hide armor"
     },
     {
         "name": "Black Bear",
@@ -3632,7 +3640,8 @@
         "speed_json": {
             "walk": 40,
             "climb": 30
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Black Dragon Wyrmling",
@@ -3955,7 +3964,8 @@
         ],
         "speed_json": {
             "walk": 40
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Bone Devil",
@@ -4210,7 +4220,8 @@
         "speed_json": {
             "walk": 40,
             "climb": 30
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Bugbear",
@@ -5279,7 +5290,8 @@
         "speed_json": {
             "walk": 20,
             "swim": 20
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Crocodile",
@@ -5324,7 +5336,8 @@
         "speed_json": {
             "walk": 20,
             "swim": 20
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Cult Fanatic",
@@ -5380,7 +5393,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "leather armor"
     },
     {
         "name": "Cultist",
@@ -5425,7 +5439,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "leather armor"
     },
     {
         "name": "Darkmantle",
@@ -5593,7 +5608,8 @@
         ],
         "speed_json": {
             "walk": 20
-        }
+        },
+        "armor_desc": "chain shirt"
     },
     {
         "name": "Deer",
@@ -5753,7 +5769,8 @@
         ],
         "speed_json": {
             "walk": 50
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Djinni",
@@ -6198,7 +6215,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "chain shirt"
     },
     {
         "name": "Druid",
@@ -6243,7 +6261,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "16 with _barkskin_"
     },
     {
         "name": "Dryad",
@@ -6657,7 +6676,8 @@
         ],
         "speed_json": {
             "walk": 40
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Elk",
@@ -7788,7 +7808,8 @@
         ],
         "speed_json": {
             "walk": 40
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Giant Centipede",
@@ -7825,7 +7846,8 @@
         "speed_json": {
             "walk": 30,
             "climb": 30
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Giant Constrictor Snake",
@@ -7915,7 +7937,8 @@
         "speed_json": {
             "walk": 30,
             "swim": 30
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Giant Crocodile",
@@ -7972,7 +7995,8 @@
         "speed_json": {
             "walk": 30,
             "swim": 50
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Giant Eagle",
@@ -8081,7 +8105,8 @@
         ],
         "speed_json": {
             "walk": 60
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Giant Fire Beetle",
@@ -8124,7 +8149,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Giant Frog",
@@ -8229,7 +8255,8 @@
         ],
         "speed_json": {
             "walk": 40
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Giant Hyena",
@@ -8322,7 +8349,8 @@
         "speed_json": {
             "walk": 30,
             "climb": 30
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Giant Octopus",
@@ -8604,7 +8632,8 @@
         ],
         "speed_json": {
             "walk": 40
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Giant Sea Horse",
@@ -8654,7 +8683,8 @@
         "speed_json": {
             "walk": 0,
             "swim": 40
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Giant Shark",
@@ -8703,7 +8733,8 @@
         ],
         "speed_json": {
             "swim": 50
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Giant Spider",
@@ -8763,7 +8794,8 @@
         "speed_json": {
             "walk": 30,
             "climb": 30
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Giant Toad",
@@ -9219,7 +9251,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "studded leather, shield"
     },
     {
         "name": "Gnoll",
@@ -9900,7 +9933,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "chain shirt, shield"
     },
     {
         "name": "Guardian Naga",
@@ -10106,7 +10140,6 @@
         "speed_json": {
             "walk": 30
         },
-        "group": "Hags",
         "armor_desc": "plate"
     },
     {
@@ -10657,7 +10690,8 @@
         ],
         "speed_json": {
             "swim": 40
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Hydra",
@@ -11217,7 +11251,8 @@
         ],
         "speed_json": {
             "swim": 60
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Knight",
@@ -11285,7 +11320,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "plate"
     },
     {
         "name": "Kobold",
@@ -11866,7 +11902,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "15 with _mage armor_"
     },
     {
         "name": "Magma Mephit",
@@ -12032,7 +12069,8 @@
         ],
         "speed_json": {
             "walk": 40
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Manticore",
@@ -13048,7 +13086,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "breastplate"
     },
     {
         "name": "Ochre Jelly",
@@ -13708,7 +13747,8 @@
         "speed_json": {
             "walk": 30,
             "climb": 30
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Pit Fiend",
@@ -14014,7 +14054,8 @@
         "speed_json": {
             "walk": 40,
             "swim": 30
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Pony",
@@ -14101,7 +14142,8 @@
         ],
         "speed_json": {
             "walk": 25
-        }
+        },
+        "armor_desc": "chain shirt"
     },
     {
         "name": "Pseudodragon",
@@ -14583,7 +14625,8 @@
         ],
         "speed_json": {
             "swim": 40
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Remorhaz",
@@ -14678,7 +14721,8 @@
         ],
         "speed_json": {
             "walk": 40
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Riding Horse",
@@ -15251,7 +15295,8 @@
         ],
         "speed_json": {
             "walk": 10
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Scout",
@@ -15310,7 +15355,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "leather armor"
     },
     {
         "name": "Sea Hag",
@@ -16596,7 +16642,8 @@
             "walk": 20,
             "burrow": 5,
             "climb": 20
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Swarm of Centipedes",
@@ -16639,7 +16686,8 @@
         "speed_json": {
             "walk": 20,
             "climb": 20
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Swarm of Insects",
@@ -16682,7 +16730,8 @@
         "speed_json": {
             "walk": 20,
             "climb": 20
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Swarm of Poisonous Snakes",
@@ -16926,7 +16975,8 @@
         "speed_json": {
             "walk": 20,
             "climb": 20
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Swarm of Wasps",
@@ -16969,7 +17019,8 @@
         "speed_json": {
             "walk": 5,
             "fly": 30
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Tarrasque",
@@ -17140,7 +17191,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "leather armor"
     },
     {
         "name": "Tiger",
@@ -17304,7 +17356,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "hide armor"
     },
     {
         "name": "Triceratops",
@@ -17814,7 +17867,8 @@
         ],
         "speed_json": {
             "walk": 30
-        }
+        },
+        "armor_desc": "splint"
     },
     {
         "name": "Violet Fungus",
@@ -18128,7 +18182,8 @@
             "walk": 30,
             "swim": 90
         },
-        "group": "Elementals"
+        "group": "Elementals",
+        "armor_desc": "natural armor"
     },
     {
         "name": "Weasel",
@@ -18243,7 +18298,7 @@
             "walk": 30
         },
         "group": "Lycanthropes",
-        "armor_desc": "natural armor"
+        "armor_desc": "10 in humanoid form, 11 (natural armor) in bear and hybrid form"
     },
     {
         "name": "Wereboar",
@@ -18313,7 +18368,7 @@
             "walk": 30
         },
         "group": "Lycanthropes",
-        "armor_desc": "natural armor"
+        "armor_desc": "10 in humanoid form, 11 (natural armor) in boar or hybrid form"
     },
     {
         "name": "Wererat",
@@ -18537,7 +18592,7 @@
             "walk": 30
         },
         "group": "Lycanthropes",
-        "armor_desc": "natural armor"
+        "armor_desc": "11 in humanoid form, 12 (natural armor) in wolf or hybrid form"
     },
     {
         "name": "White Dragon Wyrmling",
@@ -18780,7 +18835,8 @@
         ],
         "speed_json": {
             "walk": 50
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Wolf",
@@ -18830,7 +18886,8 @@
         ],
         "speed_json": {
             "walk": 40
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Worg",
@@ -18874,7 +18931,8 @@
         ],
         "speed_json": {
             "walk": 50
-        }
+        },
+        "armor_desc": "natural armor"
     },
     {
         "name": "Wraith",
